@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: taox.logmonitor.LogMonitorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.117 s - in taox.logmonitor.LogMonitorApplicationTests
